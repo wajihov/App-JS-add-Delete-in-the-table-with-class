@@ -48,3 +48,8 @@ function listeChoix(){
 }
 
 console.log("Au revoir !");
+
+        // ajouter ds la fin du tableau table.push(user)
+		// ajouter au debut du tableau table.unshift(user)
+		// supprimer la derniere element table.pop()
+		// supprimer aussi avec splice(indice,nbreEle) 
